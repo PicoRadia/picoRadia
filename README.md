@@ -1,5 +1,5 @@
 Hello World, I'm Radia! 👋
-🎓 -A double diplomat engineering student, graduated in the fields of Software Engineering & Information Management Systems and data science.
+🎓 - Graduated in the fields of Software Engineering & Information Management Systems and Sata Science from IMT Nord Europe (France) and University of East London (UK).
 
 🐍 📊 - I am a A Data Enthusiast: During my journey, I've developed a keen interest in the Data Science field and the different applications of AI in real life.
 I have deep knowledge in the fields of Mathematics, Algorithmic, Software Engineering, Data Mining, and Machine Learning, and computer vision.
